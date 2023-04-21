@@ -1,0 +1,352 @@
+
+body{
+    font-family: 'Prata', serif;  
+}
+
+p{
+    font-family: 'Red Hat Display';  
+}
+a {
+    text-decoration: none;
+    color:white;
+    font-family: 'Red Hat Display'; 
+}
+/* header-starts */
+.navbar{
+    margin: 0px 60px;
+}
+.nav-item a{
+    font-size: 12px;
+}
+.slied1{
+    background-image: url("../asset/a38.png");
+    background-attachment: fixed;
+    height: 780px;
+}
+.safemain{
+    max-width: 550px;
+     position: relative;
+     top:263px;
+     left:152px;
+ }
+ .safe h1{
+     font-size:66px;
+ }
+ .safe h4{
+     max-width: 528px;
+     font-weight: 400;
+     font-size: 18px;
+     font-family: 'Red Hat Display';
+     line-height: 27px;
+ }
+.slied2{
+    background-image: url("../asset/a33.png");
+    height: 780px;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+.casemain{
+    position: relative;
+    max-width: 700px;
+    top:302px;
+    left:152px;
+}
+.case h6{
+    font-size:12px;
+    font-family: 'Red Hat Display';
+    line-height: 16px;
+} 
+.slied3{
+    background-image: url("../asset/a47.png");
+    height:780px;
+    background-repeat: no-repeat; 
+     background-size: cover;
+     background-attachment: fixed;
+}
+.lorem h1{
+    font-size:62px;
+    height:84px;
+    width: 734px;
+    margin: 0px;
+}
+.lorem h6{
+    font-family: 'Red Hat Display';
+    font-size:17px;
+    max-width:500px;
+    font-weight: 400;
+    line-height:21px;
+    line-height: 30px;
+}
+.view h6{
+    line-height:32px;
+    font-family: 'Red Hat Display';
+    font-size: 14px;
+}
+.view img{
+   margin: -2px 10px 10px 10px;
+} 
+button{
+    font-family: 'Red Hat Display'; 
+}
+.toggel{
+    font-size: 30px;
+    color: white;
+}
+.slideUp {
+    -webkit-transform: translateY(-150px);
+    transform: translateY(-150px);
+    transition: transform .4s ease-out;
+    -webkit-transition: transform .4s ease-out;
+    -moz-transition: transform .4s ease-out;
+    -ms-transition: transform .4s ease-out;
+    -o-transition: transform .4s ease-out;
+    -moz-transform: translateY(-150px);
+    -ms-transform: translateY(-150px);
+    -o-transform: translateY(-150px);
+}
+  
+.slideDown {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    transition: transform .4s ease-out;
+    -webkit-transition: transform .4s ease-out;
+    -moz-transition: transform .4s ease-out;
+    -ms-transition: transform .4s ease-out;
+    -o-transition: transform .4s ease-out;
+}
+/* hedaer-end */
+/* section-starts-1 */
+.card-group{
+    position: relative;
+    top: -140px;
+    z-index: 200;
+    margin-bottom: -67px;
+}
+.card img{
+    height: 434px;
+    width:auto;
+}
+.vi{
+    padding:6px 27px;
+    font-size: 12px;
+    position: relative;
+    top: -194px;
+    left: 239px;
+    z-index: 100;
+}
+.sh{
+    padding:6px 27px;
+    font-size: 12px;
+    position: relative;
+    top: -193px;
+    left: 229px;
+    z-index: 100; 
+} 
+/* section-end-1 */
+/* section-2-starts */
+.row{
+    position: relative;
+    z-index: 200;
+    line-height: 46px;
+}
+.row h1{
+    font-size: 34px;
+}
+/* section-2-end */
+/* section-3-starts */
+.slider {
+    position: relative;
+}
+.slider__container {
+    cursor: grab;
+    display: flex;
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+.slider__container.dragging {
+    scroll-behavior: auto;
+    cursor: grabbing;
+}
+.slider__container::-webkit-scrollbar {
+    display: none;
+}
+.slider__item {
+    padding: 16px 8px;
+    flex: 0 0 auto;
+    width: calc(100% / 5);
+}
+.slider__item h2{
+    padding-top: 13px;
+    margin:0px;
+    font-size: 22px;
+    line-height: 30px;
+}
+.slider__container[data-step="4"] .slider__item {
+    width: calc(100% / 4);
+}
+.slider__container[data-step="3"] .slider__item {
+    width: calc(100% / 3);
+}
+.slider__container[data-step="2"] .slider__item {
+    width: calc(100% / 2);
+}
+.slider__container[data-step="1"] .slider__item {
+    width: calc(100% / 1);
+}
+/* section-3-end */
+/* mainsection -starts*/
+.mainsection{
+    background-color: #011B21;
+}
+/* mainsection -end*/
+/* section-4-starts */
+.full img{
+    margin: -10px 0px 0px 17px;
+}
+/* section-4-end */
+/* section-6-starts*/
+.pre h2{
+    font-size: 32px;
+    max-width: 150px;
+    line-height: 44px;
+}
+.auto h2{
+    font-size: 32px;
+    max-width: 150px;
+    line-height: 44px;
+}
+.cad h2{
+    font-size: 32px;
+    max-width: 150px;
+    line-height: 44px;
+}
+/* section-6-end */
+/* section-7-starts*/
+.section7{
+    margin-top: 179px;
+}
+.featured h1{
+    font-size: 34px;
+}
+.featured p{
+    font-size: 14px;
+    letter-spacing: 2.1px;
+}
+/* section-7-end */
+/* section-8-starts */
+.mini{
+    margin-top: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px 64px;
+}
+.fit p{
+    font-size: 12px;
+    letter-spacing: 1.8px;
+    margin-top:17px;
+}
+.fit h2{
+    font-size: 20px;
+    line-height: 16px;
+}
+.bim p{
+    font-size: 12px;
+    letter-spacing: 1.8px;
+    margin-top: 17px;
+}
+.bim h2{
+    font-size: 20px;
+    line-height: 16px;
+}
+/* section-8-end */
+/* section-9-starts */
+.study h1{
+    font-size: 42px;
+}
+.study{
+    position: relative;
+    top: 179px;
+}
+.port h2{
+    font-size: 30px;
+    line-height: 41px;
+}
+/* section-9-end */
+/* section-10-starts */
+.section10{
+    margin-top:369px;
+}
+.duis h4{
+    text-align: center;
+    font-size: 36px;
+    max-width: 900px;
+    margin: auto;
+    letter-spacing: 0.36px;
+}
+.duis p{
+    font-size: 14px;
+    letter-spacing: 2.1px;
+    line-height: 28px;
+}
+.duis{
+    padding-bottom:199px;
+}
+/* section-10-end */
+/* footer-starts */
+.call img{
+    background-color:#011B21;
+    border-radius: 50%;
+}
+.map img{
+    background-color:#011B21;
+    border-radius: 50%;
+}
+.to h2{
+    font-size: 32px;
+}
+.to{
+    position:relative;
+    z-index: 100;
+    display: flex;
+}
+.call p{
+    font-size: 12px;
+}
+.mail p{
+    font-size: 12px;
+}
+.map p{
+    font-size: 12px;
+}
+.is img{
+    height:47px;
+    width:110px;
+}
+.sign h2{
+    font-size: 22px;
+}
+.sign p{
+    font-size: 14px;
+    letter-spacing: 0.56px;
+}
+.box p{
+    font-size: 14px;
+   margin: 0px 15px 0px 5px;
+}
+.on li a{
+    color: black;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-family: 'Red Hat Display';
+    padding: 0px 5px;
+}
+.input{
+    margin-top: 21px;
+    width: 450px;
+}
+.on{
+    list-style-type: none;
+    margin-top: 78px;
+}
+/* footer-end */

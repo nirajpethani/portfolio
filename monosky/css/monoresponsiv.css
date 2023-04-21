@@ -1,0 +1,380 @@
+@media (max-width:1100px) {
+/*----------headre---------*/
+.main {
+    left: 1px;
+    right: 9px;
+}
+/*-----------section-1-starts--------------*/
+.images img {
+    display:none;
+}
+.images1 img {
+    display:none;
+}
+/*-----------section-1-end--------------*/
+/*-----------section-2-starts--------------*/
+.images2{
+    margin-left:433px;
+
+}
+.de p{
+    margin-left: 10px;
+}
+.border{
+    width: 400px;
+}
+ /*-----------section-2-end--------------*/  
+ /*-----------section-3-starts--------------*/
+ .we p{
+    margin-left: 10px;
+    font-size: 24px;
+    max-width:560px;
+ } 
+.more{
+    margin-left: 10px;
+ }
+ /*-----------section-3-end--------------*/ 
+ /*-----------section-4-starts--------------*/
+ .our h1{
+    margin-left: 10px;
+} 
+.help p{
+    margin-left: 10px;
+}
+ .brandicon1{
+    display: none;
+}
+.brand1 p{
+    width: 184px; 
+}
+.uiuxicon1{
+    display: none;
+} 
+.packicon1{
+    display: none;
+}
+.moticon1{
+    display: none;
+} 
+/*-----------section-4-end--------------*/ 
+/* --------section-5-starts------ */
+.works p{
+    font-size:55px;
+    margin-left: 20px;
+}
+/* --------section-5-end------ */
+/* --------section-7-starts------ */
+.app{
+    font-size: 70px;
+}
+/* --------section-7-end------ */
+/* --------section-8-starts------ */
+.monex h1{
+    font-size: 60px;
+}
+.ass9{
+    padding: 25px 30px;
+}
+.ass10{
+    padding: 29px 27px;
+}
+.ass11{
+    padding: 21px 30px;
+}
+.ass12{
+    padding: 25px 30px;
+}
+.ass13{
+    padding: 40px 9px;
+}
+.ass14{
+    padding: 48px 25px;
+}
+/* --------section-8-end------ */
+/* --------section-9-starts------ */
+.year{
+    justify-content:space-around;
+}
+/* --------section-9-end------ */
+/* --------section-10-starts------ */
+.idont{
+    display: block;
+    margin-left: 20px;
+}
+.ido1 p{
+    margin-top: 20px;
+}
+/* --------section-10-end------ */
+/* --------section-11-starts------ */
+.ou h1{
+    margin-left: 20px;
+    font-size: 70px;
+}
+.se1 p{
+    display: none;
+}
+.se2 p{
+    display: none;
+}
+.se3 p{
+    display: none;
+}
+.se4 p{
+    display: none;
+}
+.se5 p{
+    display: none;
+}
+.se6 p{
+    display: none;
+}
+/* --------section-11-end------ */
+/* --------section-12-starts------ */
+.review{
+    margin: 10px;
+    gap: 29px;
+    margin-top: 190px;
+}
+/* --------section-12-end------ */
+/* --------footer-starts------ */
+.bst {
+    margin:10px ;
+}
+.nex{
+    justify-content: space-around;
+}
+/* --------footer-end------ */
+}
+@media (max-width:992px){
+/*----------header-starts----------------*/
+.main {
+    left:0px;
+    right:0px;
+}
+.nav{
+    margin:0px;
+}
+/*----------header-end----------------*/
+/* --------section-4-starts------ */
+.our h1{
+    font-size:59px;
+}
+.help p{
+    max-width: 249px;
+}
+/* --------section-4-end------ */
+/* --------section-8-starts------ */
+.ass9{
+    padding: 22px 21px;
+}
+.ass10{
+    padding: 29px 17px;
+}
+.ass11{
+    padding: 21px 19px;
+}
+.ass12{
+    padding: 25px 21px;
+}
+.ass13{
+    padding: 40px 9px;
+}
+.ass14{
+    padding: 48px 16px;
+}
+/* --------section-8-end------ */
+}
+@media (max-width:768px) {
+/* ------------header-starts------------ */
+.main{
+    left: 0px;
+    right:152px;
+}
+.nav a{
+     display: none; 
+}
+/* ------------header-end------------ */ 
+/* --------section1-starts------ */
+.moo h1{
+    font-size:146px;
+}
+.sect2{
+    font-size: 35px;
+}
+/* --------section1-end------ */ 
+/* --------section2-starts------ */
+.good{
+    max-width:590px;
+}
+.images2 {
+    margin-left:300px;
+}
+.good p{
+    font-size: 67px;
+}
+/* --------section2-end------ */
+/* --------section3-starts------ */
+.we p {
+    font-size: 19px;
+    max-width: 474px;
+}
+button{
+    padding: 21px 40px;
+}
+/* --------section3-end------ */
+/* --------section4-starts------ */
+.main4{
+    display: block;
+}
+.help p{
+    font-size: 17px;
+    min-width: 703px;
+}
+.brand{
+    display: block;
+}
+.head h3{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.brand1 p{
+   width: 700px;
+   margin-left: 30px;
+    margin-top: 20px;
+}
+.uiux{
+    display: block;
+}
+.uiuxicon{
+    margin-top: 20px;
+}
+.uiux1 h3{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.uiux2 p{
+   width: 700px;
+   margin-left: 30px;
+    margin-top: 20px;
+}
+.packing{
+    display: block;
+}
+.packicon{
+    margin-top: 20px;
+}
+.pack1 h3{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.pack2 p{
+   width: 700px;
+   margin-left: 30px;
+    margin-top: 20px;
+}
+.motion{
+    display: block;
+}
+.moticon{
+    margin-top: 20px;
+}
+.moti1 h3{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.moti2 p{
+   width: 700px;
+   margin-left: 30px;
+    margin-top: 20px;
+}
+/* --------section4-end------ */
+/* --------section5-starts------ */
+.all{
+    display: none;
+}
+/* --------section5-end------ */
+/* --------section6-starts------ */
+.sec6{
+    justify-content: space-around;
+}
+.liarchi{
+    display: none;
+}
+.task1 img{
+    width:332px;
+}
+.film1 img{
+    width:332px;
+}
+/* --------section6-end------ */
+/* --------section7-starts------ */
+.app{
+    font-size: 60px;
+}
+.one1{
+    display: block;
+}
+.rese h2{
+    font-size:50px;
+}
+.one{
+    max-width: 734px;
+    padding-bottom: 60px;
+}
+.lorem p{
+    font-size:18px;
+}
+.two{
+    max-width: 734px;
+    padding-bottom: 60px; 
+}
+.con h2{
+    font-size:50px;
+}
+.donec p{
+    font-size:18px;
+}
+.three{
+    max-width: 734px;
+}
+.str h2{
+    font-size:50px;
+}
+.cons p{
+    font-size:18px;
+}
+.four1{
+    display: block;
+}
+.four{
+    max-width: 734px;
+    padding-bottom: 60px;
+}
+.devlo h2{
+    font-size:50px;
+}
+.viva p{
+    font-size:18px;
+}
+.five{
+    max-width: 734px;
+    padding-bottom: 60px;
+}
+.te h2{
+    font-size:50px;
+}
+.donec p{
+    font-size:18px;
+}
+.six{
+    max-width: 734px;
+}
+.hand h2{
+    font-size:50px;
+}
+.sit p{
+    font-size:18px;
+}
+/* --------section7-end------ */
+    
+}

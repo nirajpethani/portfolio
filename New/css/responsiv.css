@@ -1,0 +1,466 @@
+@media (max-width:992px) {
+  /* -------header---------- */
+  .navigation{
+    display: none;
+  }
+  .button{
+       display: none;
+  }
+  /* ----------header------------- */
+  /* -----------section-1-starts----------- */
+  .example p {
+    max-width: 822px;
+}
+  /* -------------section-end------------ */
+  /* -------------section-2-starts-------- */
+  .business {
+    justify-content:space-evenly;
+}
+  .and1 h3{
+    font-size: 45px;
+  }
+  .and1 p{
+    width: 429px;
+  }
+  /* -------------section-2-end------------ */
+   /* -------------section-3-starts-------- */
+   .touriusm{
+    justify-content:space-between;
+    gap:0px;
+   }
+   .tour1 h3{
+    font-size: 45px;
+  }
+  .tour1 p {
+    width: 429px;
+}
+  
+/* -------------section-3-end------------ */
+/* -------------section-4-starts------------ */
+.association{
+  justify-content:space-evenly;
+}
+.asso1 h3{
+  font-size: 45px;
+}
+.asso1 p{
+  width: 429px;
+}
+/* -------------section-4-end------------ */
+/* -------------section-5-starts--------- */
+.food{
+  justify-content:space-between;
+  gap: 0px;
+ }
+ .rest1 h3{
+  font-size: 45px;
+}
+.rest1 p {
+  width: 429px;
+}
+/* -------------section-5-end------------ */
+/* -------------section-6-starts--------- */
+.sports{
+  justify-content:space-evenly;
+  margin-bottom: 30px;
+}
+.spo1 h3{
+  font-size: 45px;
+}
+.spo1 p{
+  width: 429px;
+}
+/* -------------section-6-end------------ */
+/* -------------section-7-starts------------ */
+.test1 {
+  gap: 37px;
+  justify-content:space-evenly;
+}
+.web1{
+  margin-left: 15px;
+}
+.test1 h4{
+  font-size: 19px;
+}
+.test1 p {
+  font-size: 15px;
+  width: 300px;
+}
+/* -------------section-7-end------------ */
+/* -------------section-8-starts------------ */
+.up1 h3 {
+  font-size: 47px;
+}
+.up1{
+  margin-left: 40px;
+}
+/* -------------section-8-end------------ */
+/* -------------section-9-starts--------- */
+.your h3{
+  font-size: 50px;
+}
+.your1{
+  justify-content: space-around;
+}
+/* -------------section-9-end------------ */
+/* -------------section-10-starts-footer------- */
+.nova {
+  gap:65px;
+  justify-content: space-around;
+}
+.nova1 img{
+  height: 71px;
+  margin-left: 56px;
+}
+.nova2 img{
+  height: 53px;
+}
+/* -------------section-10-end------------ */
+
+}
+@media (max-width: 768px) {
+/* -------header---------- */
+.navigation{
+  display: none;
+}
+.button{
+  display: none;
+}
+/* ----------header------------- */
+/* -----------section-1-starts----------- */
+.example p {
+  max-width: 724px;
+}
+/* -------------section-end------------ */
+/* -------------section-2-starts-------- */
+.business {
+  flex-direction: column-reverse;
+}
+.images img{
+  margin-left: 183px;
+}
+.and1 h3 {
+  font-size: 40px;
+  text-align: center;
+}
+.and1 p {
+  width: 695px;
+  text-align: center;
+  margin-left: 19px;
+}
+.andbutton {
+  margin-left: 181px;
+}
+/* -------------section-2-end------------ */
+ /* -------------section-3-starts-------- */
+ .touriusm{
+  flex-direction:column;
+ }
+ .tour1 h3{
+  font-size: 45px;
+  text-align: center;
+}
+.images1 img{
+  margin-top: 24px;
+}
+.tour1 p {
+  width: 700px;
+}
+.tour2{
+  margin-left: 146px;
+}
+/* -------------section-3-end------------ */
+/* -------------section-4-starts------------ */
+.association{
+  flex-direction:column-reverse;
+}
+.images2 img{
+  margin-top: 24px;
+  margin-left:167px;
+}
+.asso1 h3{
+  font-size: 40px;
+  margin-left: 186px;
+}
+.asso1 p {
+  width: 691px;
+  text-align: center;
+  margin-left: 32px;
+}
+.andbutton2 {
+  margin-left: 170px;
+}
+/* -------------section-4-end------------ */
+/* -------------section-5-starts--------- */
+.food{
+  flex-direction: column;
+}
+.rest1 h3{
+font-size: 45px;
+text-align: center;
+}
+.rest1 p {
+width: 702px;
+}
+.images3 img{
+  margin-top: 24px;
+}
+.andbutton3{
+  margin-left: 129px;
+}
+/* -------------section-5-end------------ */
+/* -------------section-6-starts--------- */
+.sports{
+  flex-direction: column-reverse;
+}
+.images4 img{
+  margin-top: 24px;
+  margin-left: 122px;
+}
+.spo1 h3{
+  font-size: 45px;
+  text-align: center;
+}
+.spo1 p {
+  width: 682px;
+  margin: 40px;
+}
+.andbutton4 {
+  margin-left:172px;
+}
+/* -------------section-6-end------------ */
+/* -------------section-7-starts------------ */
+.test h3{
+  font-size: 44px;
+}
+.test1 {
+display: block;
+}
+.web1{
+margin-left: 15px;
+}
+.web2 a{
+  margin-left:286px;
+}
+.test1 h4{
+  font-size: 19px;
+  text-align: center;
+  margin-top: 20px;
+}
+.test1 p {
+  font-size: 15px;
+  width: 692px;
+  text-align: center;
+}
+.web1 a {
+  margin-left: 284px;
+}
+/* -------------section-7-end------------ */
+/* -------------section-8-starts------------ */
+.up1 h3 {
+  font-size: 40px;
+  width: 559px;
+}
+.up1 h4{
+  text-align: center;
+}
+.form{
+  text-align: center;
+}
+.up1{
+margin-left: 116px;
+}
+.up2 img{
+  display: none;
+}
+/* -------------section-8-end------------ */
+/* -------------section-9-starts--------- */
+.your h3 {
+  font-size: 45px;
+}
+.your1{
+justify-content: space-evenly;
+}
+/* -------------section-9-end------------ */
+/* -------------section-10-starts-footer------- */
+.nova {
+  gap: 0px;
+  display: block;
+}
+.nova1 img {
+  height: 68px;
+}
+.nova2{
+  margin-left: 148px;
+  margin-top: 20px;
+}
+.nova2 p{
+  font-size: 13px;
+}
+.facebookicon{
+  margin: 30px 10px 10px -7px;
+  color: white;
+}
+/* -------------section-10-end------------ */
+}
+@media (max-width: 576px) {
+  /* -------header---------- */
+.navigation{
+  display: none;
+}
+.button{
+  display: none;
+}
+/* ----------header------------- */
+/* -----------section-1-starts----------- */
+.example h6{
+  font-size: 45px;
+}
+.example p {
+  font-size: 20px;
+}
+/* -------------section-end------------ */
+/* -------------section-2-starts-------- */
+.images img{
+  margin-left:56px;
+}
+.and1 p {
+  width: 499px;
+  text-align: center;
+  margin-left: 19px;
+}
+.andbutton {
+  margin-left: 72px;
+}
+/* -------------section-2-end------------ */
+ /* -------------section-3-starts-------- */
+ .touriusm{
+  flex-direction:column;
+ }
+ .tour1 h3{
+  font-size: 45px;
+  text-align: center;
+}
+.images1 img{
+  margin-top: 24px;
+}
+.tour1 p {
+  width: 508px;
+}
+.tour2{
+  margin-left: 50px;
+}
+/* -------------section-3-end------------ */
+/* -------------section-4-starts------------ */
+.images2 img{
+  margin-left:60px;
+}
+.asso1 h3{
+  margin-left: 85px;
+}
+.asso1 p {
+  width: 478px;
+}
+.andbutton2 {
+  margin-left: 71px;
+}
+/* -------------section-4-end------------ */
+/* -------------section-5-starts--------- */
+.rest1 p {
+width: 500px;
+}
+.images3 img{
+  margin-top: 24px;
+}
+.andbutton3{
+  margin-left:46px;
+}
+/* -------------section-5-end------------ */
+/* -------------section-6-starts--------- */
+.sports{
+  flex-direction: column-reverse;
+}
+.images4 img {
+  margin-left: 36px;
+}
+.spo1 h3{
+  font-size: 45px;
+  text-align: center;
+}
+.spo1 p {
+  width: 469px;
+}
+.andbutton4 {
+  margin-left:70px;
+}
+/* -------------section-6-end------------ */
+/* -------------section-7-starts------------ */
+.test1 p {
+  width: 511px;
+}
+.web1 a {
+  margin-left:182px;
+}
+.web2 a{
+  margin-left: 172px;
+}
+/* -------------section-7-end------------ */
+/* -------------section-8-starts------------ */
+.up1 h3 {
+  font-size: 30px;
+  margin-left:70px
+}
+.up1 h4 {
+  font-size: 17px;
+  margin-top: 10px;
+  margin-right: 114px;
+}
+.form{
+  text-align: center;
+}
+.up1{
+  margin-left: 11px;
+}
+.up2 img{
+  display: none;
+}
+.cretive a{
+  padding: 13px 122px;
+  margin-left: 57px;
+}
+/* -------------section-8-end------------ */
+/* -------------section-9-starts--------- */
+.your h3 {
+  font-size:35px;
+}
+.your1 h4{
+  font-size:20px;
+  border-bottom: 1px solid white;
+}
+.your1{
+display: block;
+text-align: center;
+}
+.your1 ul li{
+  display: none;
+}
+/* -------------section-9-end------------ */
+/* -------------section-10-starts-footer------- */
+.nova {
+  gap: 0px;
+  display: block;
+}
+.nova1 img {
+  height:53px;
+  margin-left: 0px;
+}
+.nova2{
+  margin-left:0px;
+  margin-top: 20px;
+}
+.nova2 p{
+  font-size: 14px;
+}
+/* -------------section-10-end------------ */
+
+}

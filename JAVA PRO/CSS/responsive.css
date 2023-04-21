@@ -1,0 +1,134 @@
+
+@media (max-width:1140px){
+/* ----------section-3-starts --------*/
+.imges img {
+    height: 686px;
+    width: 493px;
+}
+/* ----------section-3-end----------*/
+/* ----------------section-4-starts--------- */
+.sect-4-food{
+     gap: 155px;
+}
+/* ----------------section-4-end------------- */
+/* ----------------section-6-starts--------- */
+.ass img {
+    width: 486px;
+}
+.happ {
+    left: 30%;
+}
+/* ----------------section-6-end--------- */
+/* ----------------section-7-starts--------- */
+.insta .insta-img {
+    height: 192px;
+}
+/* ----------------section-7-end--------- */
+/* ----------------section-8-starts--------- */
+.ass27 img {
+    margin-left: 220px;
+}
+/* ----------------section-8-end--------- */
+}
+@media (max-width:992px){
+/* ----------------section-6-starts--------- */
+.happy1 img{
+    width: 200px;
+}
+.happ img{
+    height: 600px;
+}
+.happ {
+    width: 480px;
+    left: 24%;
+}
+.happy2 img{
+    width: 200px;
+}
+/* ----------------section-6-end--------- */
+/* ----------------section-7-starts--------- */
+.insta .insta-img {
+    height: 165px;
+}
+/* ----------------section-7-end--------- */
+/* ----------------section-8-starts--------- */
+.ass27 img {
+    margin-left:50px;
+}
+/* ----------------section-8-end--------- */
+}
+@media (max-width:768px) {
+/*------section-1-starts----------*/
+.nav a{
+    display: none;
+}
+/*------section-1-end----------*/
+/*------section-2-starts----------*/
+.text p {
+      top: 57%;
+}
+.btn a {
+    top: 73%;
+}
+.text1 p {
+    top: 57%;
+}
+/*------section-2-end----------*/
+/*------section-3-starts--------*/
+.imges img {
+    height: 406px;
+    width: 373px;
+    padding: 0px;
+}
+.text2{
+    padding: 0%;
+}
+.text2 h3 {
+    font-size: 34px;
+}
+.main1{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+/*------section-3-end----------*/
+/*------section-4-strts----------*/
+.sect-4-food img{
+    width: 180px; 
+}
+.sect-4-food{
+    gap:1px;
+}
+/*------section-4-end----------*/
+/*------section-6-starts----------*/
+.happ {
+    position: absolute;
+    left: 19%;
+    bottom: 103%;
+}
+.happy1 {
+    margin-left: 0px;
+}
+.happy2 {
+    margin-left: 0px;
+    margin-top:613px;
+}
+.happ {
+    bottom: 26%;
+}
+/*------section-6-end----------*/
+/*------section-7-starts----------*/
+.insta .insta-img {
+    height: 128px;
+}
+.in{
+    height: 29px;
+    width: 236px;
+}
+/*------section-7-end----------*/
+/*------section-8-starts----------*/
+.web{
+    margin-left: 45px;
+}
+/*------section-8-end----------*/
+}
